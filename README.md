@@ -4,14 +4,8 @@ Welcome to the Plant Disease Classification System, a smart solution for early d
 
 Table of Contents
 Project Components
-1. Dataset
-2. Model Development
-3. Deployment
-4. API Testing
-5. User Interface
-How to Use
-Project Components
-1. Dataset
+
+1. Dataset :
 The model was trained on a diverse dataset gathered from Kaggle, comprising images of both healthy plants and plants with various diseases. The dataset covers different plant species and a wide range of disease types, ensuring the model's effectiveness across various crops.
 
 2. Model Development
